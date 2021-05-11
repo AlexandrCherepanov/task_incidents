@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Инциденты</string>
+    <string name="thanks">Работать над заданием было действительно интересно. Спасибо!</string>
+
+    <string name="title_isknownerrordate">Дата выявления</string>
+    <string name="title_targetfinish">Крайний срок</string>
+    <string name="title_status">Статус</string>
+
+    <string name="title_information">Общая информация</string>
+    <string name="title_reporteby">Регистратор</string>
+    <string name="title_critic_level">Уровень критичности</string>
+    <string name="title_extsysname">Система</string>
+    <string name="title_norm">Отклонение</string>
+    <string name="title_lnorm">Протяжённость</string>
+    <string name="incident_action_bar">Инцидент</string>
+    <string name="search">Поиск</string>
+    <string name="no_lnorm">Не указано</string>
+
+</resources>
